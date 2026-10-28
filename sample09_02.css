@@ -3,6 +3,9 @@ body {
     margin: 0;
     font-family: sans-serif;
     background-color: #f5f5f5;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 /* ヘッダー */
@@ -65,7 +68,7 @@ footer {
     color: white;
     text-align: center;
     padding: 15px;
-    bottom: 0;
+    margin-top: auto;
 }
 /* タブレット向け */
 @media (min-width: 768px) {
