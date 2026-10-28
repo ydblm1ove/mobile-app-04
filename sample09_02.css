@@ -54,7 +54,7 @@ main h2 {
 .card {
     background-color: white;
     padding: 30px;
-    border: 2px solid #ccc;
+    border: 1px solid #ccc;
     border-radius: 8px;
 }
 
