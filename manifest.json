@@ -1,7 +1,7 @@
 {
    "id": "/mobile-app-04/",
-   "name": "マイWebアプリ",
-   "short_name": "マイアプリ",
+   "name": "レスポンシブ学習アプリ",
+   "short_name": "学習アプリ",
    "start_url": "./",
    "scope": "./",
    "display": "standalone",
